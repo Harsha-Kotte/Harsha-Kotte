@@ -1,4 +1,4 @@
-# Hi there, I'm Harsha 👋
+# Hi there, I'm K Harsha 👋
 
 <!-- Typing Header Widget -->
 <a href="https://git.io/typing-svg">
